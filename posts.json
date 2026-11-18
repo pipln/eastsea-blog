@@ -14,6 +14,13 @@
     "excerpt": "- MS Ignite에서 7개 모델을 동시 공개 — 프런티어 품질을 '태스크당 비용 2~40%'로 끌어내리는 가성비 집단전략으로 AI 가격전쟁이 격화...."
   },
   {
+    "filename": "2026-11-19-ai-briefing.md",
+    "date": "2026-11-19",
+    "category": "briefing",
+    "title": "AI 브리핑 — 2026년 11월 19일",
+    "excerpt": "- \"가중치가 코드가 되는\" 축의 성립: 27B 모델이 그래디언트 없이 자기 가중치를 진단·수정해 스스로 +6.6점을 끌어올린 논문과, LLM을 '가중치 공간 프로그래머'로 평가하는 WeightBench가 같..."
+  },
+  {
     "filename": "2026-11-18-news-rank-summary-1201.md",
     "date": "2026-11-18",
     "category": "other",
