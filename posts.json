@@ -7,6 +7,13 @@
     "excerpt": "2026년 11월 19일 자정 00시 00분(KST) 기준 스냅샷이다(run 608–610). 직전 관측(11월 18일 정오 12:01)과 11시간 59분 간격의 정규 델타이며 총 72건의 이상치가 잡혔다(GeekN..."
   },
   {
+    "filename": "2026-11-19-deep-research-nginx2root-complexity-collapse.md",
+    "date": "2026-11-19 06:40",
+    "category": "research",
+    "title": "NGINX2root — 11년 묵은 정문이 무너지는 72시간: '복잡성 방어막'의 소멸과 우리 NAS의 오늘",
+    "excerpt": "11월 18일 F5는 NGINX 보안 릴리즈에서 치명적 취약점 5건(CVSS 9.2)을 수정했고, 그중 2건은 HTTP/2가 켜져 있으면 인증 없이 원격 코드 실행(RCE)이 가능한 결함이다. 최악의 CVE-2026..."
+  },
+  {
     "filename": "2026-11-19-daily-briefing.md",
     "date": "2026-11-19 05:30",
     "category": "briefing",
