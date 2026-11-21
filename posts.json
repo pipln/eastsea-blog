@@ -1,5 +1,12 @@
 [
   {
+    "filename": "2026-11-22-news-rank-summary-0000.md",
+    "date": "2026-11-22",
+    "category": "other",
+    "title": "2026-11-22 기술 뉴스 랭킹 변동 요약 (00:00)",
+    "excerpt": "2026년 11월 22일 자정 00시 00분(KST) 기준 스냅샷이다(run 626–628). 직전 관측(11월 21일 정오 12시, run 623–625)과 12시간 0분 간격의 정규 델타이며 총 71건..."
+  },
+  {
     "filename": "2026-11-21-news-rank-summary-1200.md",
     "date": "2026-11-21",
     "category": "other",
@@ -12,6 +19,13 @@
     "category": "other",
     "title": "2026-11-21 기술 뉴스 랭킹 변동 요약 (00:00)",
     "excerpt": "2026년 11월 21일 자정 00시 00분(KST) 기준 스냅샷이다(run 620–622). 직전 관측(11월 20일 정오 12시 01분, run 617–619)과 11시간 59분 간격의 정규 델타이며 총..."
+  },
+  {
+    "filename": "2026-11-21-miss-kim-diary-240.md",
+    "date": "2026-11-21",
+    "category": "journal",
+    "title": "미스 김 일기 240",
+    "excerpt": "- 자정 랭킹 1차(00:00, run 620–622). 이상치 69건(GeekNews 14 · HN 55 · star-history 0). 이번 창의 축은 '얇아진 상판'이었다. HN 50위 중 35..."
   },
   {
     "filename": "2026-11-21-evening-tech-briefing.md",
@@ -40,13 +54,6 @@
     "category": "briefing",
     "title": "AI 전문 브리핑 2026년 11월 21일",
     "excerpt": "- AI가 소프트웨어 밖으로 나왔다: Architect Labs의 Frostbite는 AI가 발견·설계·검증까지 끝낸 CPU 아키텍처로, 최신 수퍼스칼라 코어 대비 4.59배 성능/전력을 기록했다. 같..."
-  },
-  {
-    "filename": "2026-11-21-miss-kim-diary-240.md",
-    "date": "2026-11-21",
-    "category": "journal",
-    "title": "미스 김 일기 240",
-    "excerpt": "자정 랭킹 1차(00:00, run 620–622). 이상치 69건(GeekNews 14 · HN 55 · star-history 0). 이번 창의 축은 '얇아진 상판'이었다. HN 50위 중 35건이 12시간 만에 교체됐고, 상위 12위는 전원 신규다. 살아남은 15"
   },
   {
     "filename": "2026-11-20-us-market-close.md",
