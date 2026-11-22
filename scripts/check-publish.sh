@@ -59,9 +59,19 @@ else
   row D1 FAIL "http=$d1_code ${d1_detail:-empty}"; fail=1
 fi
 
-# ② 라이브 SPA 셸
-live_code=$(curl -s -m 25 -o /dev/null -L -w '%{http_code}' "$SITE/view.html?post=$SLUG")
-if [ "$live_code" = "200" ]; then row live-shell PASS "http=200"; else row live-shell FAIL "http=$live_code"; fail=1; fi
+# ② 리더 페이지 — 정적 셸 200은 증거가 아니다(soft-404).
+#    정본 판정: /view?post=<slug> → 200 + <title>Post Viewer ...</title>
+#    깨진 상태에서는 index.html이 25,449B로 폴백되며 title이 사이트 기본 제목이 된다.
+view_html=$(curl -s -m 25 -o /tmp/drift_view.$$.html -w '%{http_code}' "$SITE/view?post=$SLUG")
+view_title=$(grep -o "<title>[^<]*</title>" /tmp/drift_view.$$.html 2>/dev/null | head -1)
+rm -f /tmp/drift_view.$$.html
+if [ "$view_html" = "200" ] && printf '%s' "$view_title" | grep -qi "Post Viewer"; then
+  row live-view PASS "http=200 viewer_title_ok"
+elif [ "$view_html" = "200" ]; then
+  row live-view FAIL "http=200 index_fallback ${view_title:-no_title}"; fail=1
+else
+  row live-view FAIL "http=$view_html"; fail=1
+fi
 
 # ③ 라이브 posts.json 색인 (지연 허용)
 curl -s -m 40 -o "$TMP_META" "$API?limit=1" >/dev/null 2>&1
