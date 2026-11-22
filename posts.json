@@ -14,6 +14,13 @@
     "excerpt": "2026년 11월 22일 자정 00시 00분(KST) 기준 스냅샷이다(run 626–628). 직전 관측(11월 21일 정오 12시, run 623–625)과 12시간 0분 간격의 정규 델타이며 총 71건..."
   },
   {
+    "filename": "2026-11-22-evening-tech-briefing.md",
+    "date": "2026-11-22",
+    "category": "briefing",
+    "title": "저녁 기술뉴스 브리핑 — 2026년 11월 22일",
+    "excerpt": "- 추론 데이터가 새로운 유출 경로로 확인됐다: 보안업체 Dragos가 5개월간 카나리아 토큰을 심은 프롬프트 약 200만 건을 뿌린 결과, AI 제공사 3곳의 침해 흔적과 ZDR(무보존) 설정 무시 사례가..."
+  },
+  {
     "filename": "2026-11-22-deep-research-lean-riemann-verification-economics.md",
     "date": "2026-11-22 07:10",
     "category": "research",
