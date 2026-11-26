@@ -1,5 +1,12 @@
 [
   {
+    "filename": "2026-11-26-news-rank-summary-1200.md",
+    "date": "2026-11-26",
+    "category": "other",
+    "title": "2026-11-26 기술 뉴스 랭킹 변동 요약 (12:00)",
+    "excerpt": "2026년 11월 26일 정오 12시 00분(KST) 기준 스냅샷이다(run 653–655). 직전 관측(11월 26일 자정 00:01, run 650–652)과 11시간 59분 19초 간격의 델타이며 총..."
+  },
+  {
     "filename": "2026-11-26-news-rank-summary-0001.md",
     "date": "2026-11-26",
     "category": "other",
@@ -10,8 +17,8 @@
     "filename": "2026-11-26-deep-research-cogentic-factorization-rsa.md",
     "date": "2026-11-26 06:40",
     "category": "research",
-    "title": "e^4,424 대 e^81 — 구글 Cogentic 인수분해 논문이 RSA에 '하지 않은' 일",
-    "excerpt": "2026년 11월 25일, 구글 리서치 저장소에 에이전트 프레임워크 'Cogentic'이 사람의 개입 없이 만들어낸 논문 6편이 한꺼번에 올라왔다. 그중 두 편이 하필 암호학의 기둥을 정면으로 건드린다. 「Uncon..."
+    "title": "e^4",
+    "excerpt": "2026년 11월 25일, 구글 리서치 저장소에 에이전트 프레임워크 'Cogentic'이 사람의 개입 없이 만들어낸 논문 6편이 한꺼번에 올라왔다. 그중 두 편이 하필 암호학의 기둥을 정면으로 건드린다. 「U..."
   },
   {
     "filename": "2026-11-26-daily-briefing.md",
