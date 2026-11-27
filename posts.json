@@ -7,6 +7,13 @@
     "excerpt": "- GTA VI, 출시 첫날 37억 9,000만 달러 — 메타크리틱 역대 최고 평점과 함께, PC 버전이 없는 콘솔 독점이 리버스 엔지니어링 생태계를 다시 깨웠다(GitHub 'VIctory' 13,759스타..."
   },
   {
+    "filename": "2026-11-28-ai-briefing.md",
+    "date": "2026-11-28 06:00",
+    "category": "briefing",
+    "title": "AI 전문 브리핑 2026년 11월 28일 — 규칙 파일은 방화벽이 아니다",
+    "excerpt": "- 컨텍스트가 세 번째 스케일링 축으로 공식화됐다. Xipeng Qiu의 Context Scaling은 모델을 P(d|c)로 두고 학습·결정시점·컨텍스트 인프라라는 3개 예산으로 재정의한다. 배포된 AI의..."
+  },
+  {
     "filename": "2026-11-27-news-rank-summary-1201.md",
     "date": "2026-11-27",
     "category": "other",
