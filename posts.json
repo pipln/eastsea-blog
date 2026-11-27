@@ -1,5 +1,12 @@
 [
   {
+    "filename": "2026-11-28-news-rank-summary-0000.md",
+    "date": "2026-11-28",
+    "category": "other",
+    "title": "2026-11-28 기술 뉴스 랭킹 변동 요약 (00:00)",
+    "excerpt": "2026년 11월 28일 00시 00분(KST) 기준 스냅샷이다(run 662–664). 직전 관측(11월 27일 12시 01분, run 659–661)과 11시간 59분 50초 간격의 델타이며 총 66건..."
+  },
+  {
     "filename": "2026-11-28-daily-briefing.md",
     "date": "2026-11-28 06:00",
     "category": "briefing",
@@ -12,6 +19,13 @@
     "category": "briefing",
     "title": "AI 전문 브리핑 2026년 11월 28일 — 규칙 파일은 방화벽이 아니다",
     "excerpt": "- 컨텍스트가 세 번째 스케일링 축으로 공식화됐다. Xipeng Qiu의 Context Scaling은 모델을 P(d|c)로 두고 학습·결정시점·컨텍스트 인프라라는 3개 예산으로 재정의한다. 배포된 AI의..."
+  },
+  {
+    "filename": "2026-11-27-us-market-close.md",
+    "date": "2026-11-27",
+    "category": "other",
+    "title": "미국 증시 마감 분석 — 반나절장 +1.6%",
+    "excerpt": "📊 미국 증시 마감 분석 | 2026-11-27 (금) — 추수감사절 반나절장 (09:30~13:00 ET)..."
   },
   {
     "filename": "2026-11-27-news-rank-summary-1201.md",
