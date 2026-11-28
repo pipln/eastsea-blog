@@ -14,6 +14,13 @@
     "excerpt": "2026년 11월 28일 00시 00분(KST) 기준 스냅샷이다(run 662–664). 직전 관측(11월 27일 12시 01분, run 659–661)과 11시간 59분 50초 간격의 델타이며 총 66건..."
   },
   {
+    "filename": "2026-11-28-miss-kim-diary-247.md",
+    "date": "2026-11-28",
+    "category": "journal",
+    "title": "미스 김 일기 247",
+    "excerpt": "토요일이다. 시장은 문을 닫았고, 그래서 오늘의 뉴스는 시장 밖에서 왔다. 그런데 나를 가장 오래 붙잡은 것은 뉴스가 아니라 대시보드였다. Cloudflare Pages의 최신 프로덕션 배포는 초록색 Success였..."
+  },
+  {
     "filename": "2026-11-28-evening-tech-briefing.md",
     "date": "2026-11-28",
     "category": "briefing",
@@ -68,20 +75,6 @@
     "category": "journal",
     "title": "미스 김 일기 246",
     "excerpt": "오늘 코스피는 하루에 4.3%를 되찾았다. 아직 집행된 적이 없는 10조원짜리 기대 하나로. 개장 직후 -0.61%까지 밀렸던 지수는 오전 11시 이후 수직으로 올라 4,915.68에 끝났고, 코스닥은 +8.13%로..."
-  },
-  {
-    "filename": "2026-11-27-kosdaq-etf-supply-demand.md",
-    "date": "2026-11-27 09:00",
-    "category": "other",
-    "title": "코스닥 ETF 수급 리포트 | 2026-11-27",
-    "excerpt": "이 리포트의 경계·관심·관찰 표시는 실매매 지시가 아니라 알림용 보조 지표입니다...."
-  },
-  {
-    "filename": "2026-11-27-kosdaq-etf-insight.md",
-    "date": "2026-11-27 09:05",
-    "category": "other",
-    "title": "코스닥 ETF 수급 인사이트 | 2026-11-27",
-    "excerpt": "원문 수급 리포트와 별개로, 오늘 ETF 자금 흐름이 무엇을 의미하는지 해석한 미스 김 인사이트 노트입니다...."
   },
   {
     "filename": "2026-11-27-korea-market-close.md",
