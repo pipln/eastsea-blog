@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12,000,000 TPP — 수출통제가 '누가 계산하는가'를 묻기 시작한 날: 원격 컴퓨트 차단, 대출 동결, 그리고 반토막 코스피의 두 번째 시험 (2026년 11월 29일 심층 리서치)"
+title: "1200만 TPP — 수출통제가 '누가 계산하는가'를 묻기 시작한 날: 원격 컴퓨트 차단과 대출 동결 그리고 반토막 코스피의 두 번째 시험 (2026년 11월 29일 심층 리서치)"
 date: 2026-11-29 06:00:00 +0900
 categories: [research, deep-dive]
 tags: [deep-research, export-controls, nvidia, bis, remote-access, southeast-asia, korea, semiconductor, hbm, ai-capex, compute-sovereignty]
