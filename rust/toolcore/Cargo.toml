@@ -1,0 +1,24 @@
+[package]
+name = "toolcore"
+version = "0.1.0"
+edition = "2021"
+description = "Single Rust core for Eastsea tool calculators (wasm ABI: invoke(tool_id, input_json))"
+publish = false
+
+# wasm-pack's cached wasm-opt (binaryen) rejects the memory.copy feature that
+# rustc >= 1.9x emits; size is already controlled via LTO + opt-level=z in the
+# workspace release profile, so skip the binaryen pass.
+[package.metadata.wasm-pack.profile.release]
+wasm-opt = false
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+# Pinned to the installed wasm-bindgen-cli version — the generated JS glue
+# and the wasm module must agree exactly.
+wasm-bindgen = "=0.2.130"
+serde = { version = "1", features = ["derive"] }
+# preserve_order: emit result keys in the exact order of the legacy JS object
+# literals so wasm output is byte-identical to JSON.stringify(legacyResult).
+serde_json = { version = "1", features = ["preserve_order"] }

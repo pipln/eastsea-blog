@@ -1,0 +1,4 @@
+# build artifacts (never deploy/commit these)
+target/
+toolcore/pkg-web/
+toolcore/pkg-node/

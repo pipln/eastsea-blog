@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+members = ["toolcore"]
+
+# Size is a first-class metric (see RUST-WASM-MIGRATION.md): the single
+# toolcore.wasm bundle must stay <= 250KB gzipped for one-shot tool loading.
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
